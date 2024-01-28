@@ -1,4 +1,4 @@
-Как запустить
+Как запустить через Docker
 
 1. Установка [docker-a](https://docs.docker.com/engine/install/)
 2. docker build -t small_fast_api_app:v1 . - Собрать контейнер
